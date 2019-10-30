@@ -1,4 +1,4 @@
-# MIT 60001 Readings
+# MIT 6.0001 Readings
 
 ### Textbook
 The textbook Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition_. MIT Press, 2016. ISBN: 9780262529624. The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book.

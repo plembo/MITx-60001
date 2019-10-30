@@ -1,4 +1,4 @@
-# MIT 60001 Syllabus
+# MIT 6.0001 Syllabus
 
 ### Course Meeting Times
 Lectures: 2 sessions / week, 1 hour / session
