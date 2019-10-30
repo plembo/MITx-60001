@@ -30,12 +30,12 @@ Each problem set will involve programming in Python. There will be 6 problem set
 Grading Policy
 Grades will be roughly computed as follows:
 
-| ACTIVITIES      | PERCENTAGES |
-|-----------------|-------------|
-|Problem sets	  |    30%      |
-|Finger exercises |    10%      |
-|Midterm Quiz     |    20%      |
-|Final Quiz	      |    40%      |
+| ACTIVITIES      | PERCENTAGES 
+|-----------------|-------------
+|Problem sets	  |    30%      
+|Completion of mandatory finger exercises |    10% 
+|Midterm Quiz     |    20%      
+|Final Quiz	      |    40%
 
 Problem sets will be graded out of 10 points. Submissions that do not run will receive at most 20% of the points. Please contact your Teaching Assistant if you have a problem understanding your problem set grade.
 
