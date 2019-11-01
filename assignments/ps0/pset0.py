@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov  1 17:44:32 2019
-@author: philip
+@author: Phil Lembo
 
 Write a program that does the following in order:
 1. Asks the user to enter a number “x”
@@ -14,5 +14,5 @@ import numpy as np
 
 x = int(input('Enter number for x: '))
 y = int(input('Enter number for y: '))
-print('x**y = ', x**y)
-print('log(x) = ', np.log(x))
+print('x**y = {}'.format(x**y))
+print('log(x) = {}'.format(np.log(x)))
